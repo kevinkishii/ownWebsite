@@ -1,3 +1,5 @@
+const { transform } = require("next/dist/build/swc");
+
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   content: [
@@ -11,6 +13,20 @@ module.exports = {
         "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
         "gradient-conic":
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
+      },
+      keyframes: {
+        "open-hamburger": {
+          "0%": { transform: "scaleY(0)" },
+          "100%": { transform: "scaleY(1)" },
+        },
+        "close-hamburger": {
+          "0%": { transform: "scaleY(1)" },
+          "100%": { transform: "scaleY(0)" },
+        },
+      },
+      animation: {
+        "open-hamburger": "open-hamburger 0.5s ease-in-out forwards",
+        "close-hamburger": "close-hamburger 0.5s ease-in-out forwards",
       },
     },
   },

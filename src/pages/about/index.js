@@ -1,11 +1,11 @@
 import { Inter } from "next/font/google";
 import Header from "@/components/Header";
 import ComponentFinder from "@/components/ComponentFinder";
-import portfolioContent from "@/content/porfolio";
+import aboutContent from "@/content/about";
 
 const inter = Inter({ subsets: ["latin"] });
 
-const PortFolio = ({ content }) => {
+const About = ({ content }) => {
   return (
     <main
       className={`relative flex min-h-screen flex-col items-center justify-between ${inter.className}`}
@@ -20,7 +20,7 @@ const PortFolio = ({ content }) => {
 };
 
 export async function getStaticProps() {
-  const content = portfolioContent;
+  const content = aboutContent;
 
   return {
     props: {
@@ -29,4 +29,4 @@ export async function getStaticProps() {
   };
 }
 
-export default PortFolio;
+export default About;

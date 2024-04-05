@@ -11,10 +11,11 @@ const About = ({ content }) => {
       className={`relative flex min-h-screen flex-col items-center justify-between ${inter.className}`}
     >
       <Header />
-      {content?.map((item, idx) => {
-        return <ComponentFinder {...item} key={`content-${idx}`} />;
-      })}
-      <div className="bg-[#fafafa] h-[600px] w-full shadow-inner"></div>
+      <div className="w-full h-full mt-20 bg-black">
+        {content?.map((item, idx) => {
+          return <ComponentFinder {...item} key={`content-${idx}`} />;
+        })}
+      </div>
     </main>
   );
 };

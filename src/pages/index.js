@@ -5,7 +5,6 @@ import { Inter } from "next/font/google";
 const inter = Inter({ subsets: ["latin"] });
 
 const Home = ({ content }) => {
-  console.log("content", content);
   return (
     <main
       className={`relative flex min-h-screen flex-col items-center justify-between ${inter.className}`}
@@ -21,7 +20,6 @@ const Home = ({ content }) => {
 
 export async function getStaticProps() {
   const content = homeContent;
-  console.log("homeContent", homeContent);
 
   return {
     props: {

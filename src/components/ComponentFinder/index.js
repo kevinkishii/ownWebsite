@@ -1,7 +1,6 @@
 import PageHero from "../PageHero";
 
 const ComponentFinder = (props) => {
-  console.log("props", props);
   switch (props?.component) {
     case "hero":
       return <PageHero {...props} />;

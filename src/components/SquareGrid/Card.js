@@ -14,14 +14,14 @@ const Card = ({ title, subTitle, description }) => {
         </div>
       </div>
       <div className=" relative flex flex-col gap-1">
-        <div className="opacity-[0.3] text-sm">{"<h3>"}</div>
+        <div className="opacity-[0.3] text-white text-sm">{"<h3>"}</div>
         <div
-          className="text-base relative pl-9 after:h-[100%] after:absolute after:w-0 after:bg-white after:border-solid after:left-4 
+          className="text-white text-base relative pl-9 after:h-[100%] after:absolute after:w-0 after:bg-white after:border-solid after:left-4 
             after:border-[0.1px] after:border-white after:bottom-0 after:opacity-[0.3]"
         >
           {description}
         </div>
-        <div className="opacity-[0.3] text-sm">{"</h3>"}</div>
+        <div className="opacity-[0.3] text-white text-sm">{"</h3>"}</div>
       </div>
     </div>
   );

@@ -23,10 +23,15 @@ module.exports = {
           "0%": { transform: "scaleY(1)" },
           "100%": { transform: "scaleY(0)" },
         },
+        "show-on-scroll": {
+          "0%": { opacity: "0", height: "0", transform: "translateY(30%)" },
+          "100%": { opacity: "1", height: "100%", transform: "translateY(0%)" },
+        },
       },
       animation: {
         "open-hamburger": "open-hamburger 0.5s ease-in-out forwards",
         "close-hamburger": "close-hamburger 0.5s ease-in-out forwards",
+        "show-on-scroll": "show-on-scroll ease-in-out both",
       },
     },
   },

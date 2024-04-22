@@ -37,21 +37,21 @@ const HamburgerMenu = ({ hamburgerState }) => {
         <div className="flex flex-row gap-9">
           <a
             href="https://www.facebook.com/kevin.ishii/"
-            target="_black"
+            target="_blank"
             rel="noopener noreferrer"
           >
             <Facebook />
           </a>
           <a
             href="https://www.linkedin.com/in/kevinkishii/"
-            target="_black"
+            target="_blank"
             rel="noopener noreferrer"
           >
             <Linkedin />
           </a>
           <a
             href="https://www.instagram.com/kevinishii/"
-            target="_black"
+            target="_blank"
             rel="noopener noreferrer"
           >
             <Instagram />

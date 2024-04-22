@@ -24,8 +24,8 @@ module.exports = {
           "100%": { transform: "scaleY(0)" },
         },
         "show-on-scroll": {
-          "0%": { opacity: "0", height: "0", transform: "translateY(30%)" },
-          "100%": { opacity: "1", height: "100%", transform: "translateY(0%)" },
+          "0%": { opacity: "0", height: "0" },
+          "100%": { opacity: "1", height: "100%" },
         },
       },
       animation: {

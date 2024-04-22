@@ -72,6 +72,22 @@ const aboutContent = [
       },
     ],
   },
+  {
+    component: "toggle-icons",
+    title: "My Certifications",
+    cards: [
+      {
+        title: "AWS Certified Cloud Practitioner",
+        imgSrc: "/awsCloudPractitioner.png",
+        link: "https://www.credly.com/badges/6cba949a-6a88-4101-a05b-719fa9d4c22c/linked_in_profile",
+      },
+      {
+        title: "JavaScript Algorithms and Data Structures",
+        imgSrc: "/freeCodeCamp.png",
+        link: "https://www.freecodecamp.org/certification/fcca84c2870-6440-4d7d-9031-fda602fe3237/javascript-algorithms-and-data-structures",
+      },
+    ],
+  },
 ];
 
 export default aboutContent;

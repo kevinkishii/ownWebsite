@@ -1,6 +1,7 @@
 import Image from "next/image";
+import Socials from "./Socials.js";
 
-const PageHero = ({ title, intro, description, isFullScreen }) => {
+const PageHero = ({ title, intro, description, isFullScreen, socials }) => {
   return (
     <div
       className={`bg-black w-full flex items-center justify-center text-white py-24 px-16 ${
@@ -14,6 +15,7 @@ const PageHero = ({ title, intro, description, isFullScreen }) => {
           {description && (
             <div className="text-white text-xl">{description}</div>
           )}
+          {socials && <Socials socials={socials} />}
         </div>
         <div className="w-full lg:w-1/2 rounded-xl overflow-hidden">
           <Image

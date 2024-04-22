@@ -14,7 +14,6 @@ const PortFolio = ({ content }) => {
       {content?.map((item, idx) => {
         return <ComponentFinder {...item} key={`content-${idx}`} />;
       })}
-      <div className="bg-black h-[600px] w-full shadow-inner"></div>
     </main>
   );
 };

@@ -1,4 +1,5 @@
 import PageHero from "../PageHero";
+import ProjectsDisplay from "../ProjectsDisplay";
 import SquareGrid from "../SquareGrid";
 import ToggleIcons from "../ToggleIcons";
 import VerticalDrawer from "../VerticalDrawer.js";
@@ -13,6 +14,8 @@ const ComponentFinder = (props) => {
       return <VerticalDrawer {...props} />;
     case "toggle-icons":
       return <ToggleIcons {...props} />;
+    case "projects-display":
+      return <ProjectsDisplay {...props} />;
     default:
       return null;
   }

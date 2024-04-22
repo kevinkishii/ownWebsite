@@ -2,7 +2,7 @@ import Image from "next/image";
 
 const Socials = ({ socials }) => {
   return (
-    <ul className="w-full grid grid-cols-[repeat(auto-fill,_minmax(50%,_1fr))] w-full">
+    <ul className="w-full flex flex-col md:grid md:grid-cols-[repeat(auto-fill,_minmax(50%,_1fr))] w-full">
       {socials?.map((item) => {
         return (
           <li

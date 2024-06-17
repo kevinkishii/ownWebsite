@@ -3,6 +3,7 @@ import ProjectsDisplay from "../ProjectsDisplay";
 import SquareGrid from "../SquareGrid";
 import ToggleIcons from "../ToggleIcons";
 import VerticalDrawer from "../VerticalDrawer.js";
+import WeddingGrid from "../WeddingGrid";
 
 const ComponentFinder = (props) => {
   switch (props?.component) {
@@ -16,6 +17,8 @@ const ComponentFinder = (props) => {
       return <ToggleIcons {...props} />;
     case "projects-display":
       return <ProjectsDisplay {...props} />;
+    case "wedding-grid":
+      return <WeddingGrid {...props} />;
     default:
       return null;
   }

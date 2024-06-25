@@ -16,7 +16,30 @@ const WeddingGrid = ({ title, description, items }) => {
         <h1 className="text-white text-6xl md:text-7xl font-bold text-[#835256]">
           {title}
         </h1>
-        <p className="text-[#835256]">{description}</p>
+        <div className="text-[#835256] list-disc flex flex-col max-w-[850px] text-justify">
+          {description?.map((item, idx) => {
+            if (typeof item === "string") {
+              return <p key={`description-${idx}`}>{item}</p>;
+            }
+            if (item?.list) {
+              return (
+                <ul
+                  key={`description-${idx}`}
+                  className="list-disc list-inside"
+                >
+                  {item?.list?.map((listItem, listIndex) => {
+                    return (
+                      <li key={`description-${idx}-listItem-${listIndex}`}>
+                        {listItem}
+                      </li>
+                    );
+                  })}
+                </ul>
+              );
+            }
+            return null;
+          })}
+        </div>
         <div className="flex items-center justify-center w-full max-w-[1050px]">
           <div className="grid grid-cols-[repeat(auto-fill,_minmax(300px,_1fr))] w-full gap-4">
             {items &&

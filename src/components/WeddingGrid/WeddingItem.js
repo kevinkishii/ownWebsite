@@ -14,6 +14,7 @@ const WeddingItem = ({ title, description, link, price, imgUrl }) => {
         alt={title}
         width={300}
         height={300}
+        onError={(e) => (e.target.srcset = "/wedding/kevinIsa.png")}
       />
       <div className=" relative flex flex-col gap-1">
         <div className="text-2xl font-semibold relative text-[#AF8F90]">

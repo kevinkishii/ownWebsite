@@ -7,7 +7,7 @@ const WeddingGrid = ({ title, description, items }) => {
       <div className="flex flex-col items-center justify-center gap-10 w-full">
         <Image
           className="w-[500px]"
-          src={"/wedding/kevinIsa.png"}
+          src={"/weddingSrc/kevinIsa.png"}
           alt={title}
           width={300}
           height={300}

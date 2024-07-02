@@ -136,7 +136,7 @@ const weddingContent = [
         title: "Kit Bartender",
         description: "",
         link: "https://loja.bartenderstore.com.br/kits-de-bar/kit-bartender-intermediario-com-bolsa",
-        imgUrl: "/wedding/kitBartender.webp",
+        imgUrl: "/weddingSrc/kitBartender.webp",
         price: "R$ 198,90",
       },
       {
@@ -159,7 +159,7 @@ const weddingContent = [
         title: "Viagem ao japão",
         description:
           "Qualquer valor destinado à este presente estariamos muito felizes para realização do sonho da noiva",
-        imgUrl: "/wedding/japan.jpg",
+        imgUrl: "/weddingSrc/japan.jpg",
         price: "R$ 30.000,00",
       },
     ],

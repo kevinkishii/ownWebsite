@@ -4,10 +4,10 @@ const weddingContent = [
     title: "Lista de presentes",
     description: [
       "Queridos familiares e amigos, para nós, a presença de vocês neste dia tão especial é o maior presente que poderíamos receber. Mas, se vocês também quiserem nos presentear, ficaremos muito agradecidos. Vamos nos mudar e esses são alguns dos itens que desejamos adquirir.",
-      "Caso deseje nos presentear, sugerimos 2 formas: ",
+      "Caso deseje nos presentear, sugerimos 3 formas: ",
       {
         list: [
-          "Compra do item da lista, podendo avisar a nossa acessoria diretamente com a Glaucia, informando o item para retirarmos do site.",
+          "Compra do item da lista, podendo nos avisar para tirarmos do site e não termos presentes duplicados, ou avisar a nossa acessora (Glaucia - tel: (11)-95293-1501) diretamente caso desejar no presentear anônimamente até a data e para retirarmos o item do Site.",
           "Pix com descrição do presente para a chave (11 9 7605-3897), que compraremos logo mais e pode deixar, mandaremos foto dele na nossa casinha!",
           "Caso não se identifique em dar algum dos presentes da lista, pode nos enviar um pix para ajudar nos nossos sonhos!",
         ],
@@ -15,7 +15,7 @@ const weddingContent = [
     ],
     items: [
       {
-        title: "Colchão Emma (Tamanho Queen)",
+        title: "Colchão Emma Premium Hybrid (Tamanho Queen)",
         description: "",
         link: "https://www.colchoesemma.com.br/colchao-emma-premium/",
         imgUrl:
@@ -23,14 +23,14 @@ const weddingContent = [
         price: "R$ 5.199,00",
       },
       {
-        title: "Geladeira",
+        title: "Geladeira - BRM44HK",
         description: "",
         link: "https://www.brastemp.com.br/geladeira-brastemp-frost-free-375-litros-brm44hk/p",
         imgUrl: "https://brastemp.vtexassets.com/arquivos/ids/223742-500-500",
         price: "R$ 3.299,00",
       },
       {
-        title: "Lava & Seca 11kg",
+        title: "Lava & Seca 11kg - WD11M4473PX",
         description: "",
         link: "https://www.fastshop.com.br/web/p/d/SGWD11M4473PX_PRD/lava-e-seca-samsung-11-kg-inox-look-wd11m4473px-fast?partner=parceiro-google&cm_mmc=cpc_Shopping-_-SGWD11M4473PX_PRD&utm_source=google&utm_medium=cpc&gclid=CjwKCAjw-b-kBhB-EiwA4fvKrHbgw7bPutiTULTp2BbrwiabIKRUSJo244u4wuf22T_rsmHHxDfW_xoCWBkQAvD_BwE",
         imgUrl:
@@ -38,22 +38,14 @@ const weddingContent = [
         price: "R$ 4.399,90",
       },
       {
-        title: "Fogão",
+        title: "Fogão Consul 5 bocas cor Inox",
         description: "",
         link: "https://www.consul.com.br/fogao-piso-consul-5-bocas-mesa-de-vidro-cfs5var/p",
         imgUrl: "https://consul.vtexassets.com/arquivos/ids/230124-1200-auto",
         price: "R$ 1.691,10",
       },
       {
-        title: "Televisão",
-        description: "",
-        link: "https://www.fastshop.com.br/web/p/d/SGUN55CU8000_PRD/smart-tv-samsung-crystal-uhd-4k-55quot-polegadas-55cu8000-com-painel-dynamic-crystal-color-design-airslim-e-alexa-built-in?utm_source=google&utm_medium=cpc&utm_term=pmax_1p&utm_campaign=18074513501&gad_source=1&gclid=CjwKCAjwoPOwBhAeEiwAJuXRh5FB4UkAB0uDd1pJ9184kg_IFDFhKUKSYgDXFmPgzucl3C9yfsFV7xoCea4QAvD_BwE",
-        imgUrl:
-          "https://www.fastshop.com.br//wcsstore/FastShopCAS/images/catalog/SGUN55CU8000_PRD/SGUN55CU8000_PRD_447_1.jpeg",
-        price: "R$ 2.599,00",
-      },
-      {
-        title: "Jogo de Panelas",
+        title: "Jogo de Panelas Fika Flamingo Pink",
         description: "",
         link: "https://now.westwing.com.br/jogo-de-panelas-fika-flamingo-pink-73647.html",
         imgUrl:
@@ -61,7 +53,7 @@ const weddingContent = [
         price: "R$ 1.870,55",
       },
       {
-        title: "Batedeira Kitchen Aid",
+        title: "Batedeira Kitchen Aid - Rosa",
         description: "",
         link: "https://www.kitchenaid.com.br/batedeira-stand-mixer-kitchenaid-artisan-dried-rose-kea33co/p",
         imgUrl:
@@ -77,7 +69,7 @@ const weddingContent = [
         price: "aprox. R$ 1.380,00",
       },
       {
-        title: "Máquina nespresso",
+        title: "Máquina Nespresso Lattissima One Branca",
         description: "",
         link: "https://www.amazon.com.br/Nespresso-Lattissima-One-Branca-Cafeteira/dp/B09WYZPBR7/ref=asc_df_B09WYZPBR7/?tag=googleshopp00-20&linkCode=df0&hvadid=557926986208&hvpos=&hvnetw=g&hvrand=8358881787408621118&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001773&hvtargid=pla-1663253407868&mcid=47abd53c207e314b93549cedc17c54a7&th=1",
         imgUrl:
@@ -93,7 +85,7 @@ const weddingContent = [
         price: "R$ 949,99",
       },
       {
-        title: "Jogo de Lençol",
+        title: "Jogo de Lençol Cording Percal",
         description: "",
         link: "https://mmartan.com.br/pr/jogo-de-lencol-percal-cording-one-for-all/MM18CJDCA6150",
         imgUrl:
@@ -101,7 +93,7 @@ const weddingContent = [
         price: "R$ 459,90",
       },
       {
-        title: "Jogo de talheres",
+        title: "Faqueiro em Inox Viena Wolff Champanhe Fosco",
         description: "",
         link: "https://now.westwing.com.br/faqueiro-em-inox-viena-wolff-champanhe-fosco-06-pessoas-53073.html?simple=DEQ22WOL95180-69772&gclid=Cj0KCQjwpompBhDZARIsAFD_Fp91cZd7yFUT6loc51M5lgEs66LhiAfHKiB2XGdU__xPZkg5ZOlrCyoaAh7KEALw_wcB",
         imgUrl:
@@ -117,7 +109,7 @@ const weddingContent = [
         price: "R$ 224,94",
       },
       {
-        title: "Cafeteira Espresso",
+        title: "Cafeteira Espresso Philco 15 bar",
         description: "",
         link: "https://www.amazon.com.br/Cafeteira-Coffee-Express-Philco-220V/dp/B076HSPQFD/ref=asc_df_B076HQ1K5H/?tag=googleshopp00-20&linkCode=df0&hvadid=379727342281&hvpos=&hvnetw=g&hvrand=6925208241661432087&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001773&hvtargid=pla-814286448223&mcid=506cc42d6cb33577969ca02108880c74&th=1",
         imgUrl:
@@ -148,7 +140,7 @@ const weddingContent = [
         price: "R$ 399,01",
       },
       {
-        title: "Choperia elétrica",
+        title: "Choperia elétrica PerfectDraft",
         description: "",
         link: "https://www.perfectdraft.com.br/kit-experiencia-stella-artois-perfectdraft-5/p",
         imgUrl:

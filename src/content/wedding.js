@@ -125,13 +125,6 @@ const weddingContent = [
         price: "R$ 313,41",
       },
       {
-        title: "Kit Bartender",
-        description: "",
-        link: "https://loja.bartenderstore.com.br/kits-de-bar/kit-bartender-intermediario-com-bolsa",
-        imgUrl: "/weddingSrc/kitBartender.webp",
-        price: "R$ 198,90",
-      },
-      {
         title: "kit Moedor para Kitchen Aid",
         description: "",
         link: "https://www.kitchenaid.com.br/moedor-de-alimentos-para-stand-mixer-kio02dx/p",

@@ -54,7 +54,7 @@ const weddingContent = [
       },
       {
         title: "Batedeira Kitchen Aid - Rosa",
-        description: "",
+        description: "Cor rosa que é o sonho da noiva",
         link: "https://www.kitchenaid.com.br/batedeira-stand-mixer-kitchenaid-artisan-dried-rose-kea33co/p",
         imgUrl:
           "https://kitchenaid2.vtexassets.com/arquivos/ids/170134-1600-1600?v=638488884367830000&width=1600&height=1600&aspect=true",
@@ -124,14 +124,14 @@ const weddingContent = [
           "https://static-images-now.westwing.com.br/s/34222-0463-95844-1-product2.jpg",
         price: "R$ 313,41",
       },
-      {
-        title: "kit Moedor para Kitchen Aid",
-        description: "",
-        link: "https://www.kitchenaid.com.br/moedor-de-alimentos-para-stand-mixer-kio02dx/p",
-        imgUrl:
-          "https://kitchenaid2.vtexassets.com/arquivos/ids/166881-1600-1600?v=637939271320100000&width=1600&height=1600&aspect=true",
-        price: "R$ 399,01",
-      },
+      // {
+      //   title: "kit Moedor para Kitchen Aid",
+      //   description: "",
+      //   link: "https://www.kitchenaid.com.br/moedor-de-alimentos-para-stand-mixer-kio02dx/p",
+      //   imgUrl:
+      //     "https://kitchenaid2.vtexassets.com/arquivos/ids/166881-1600-1600?v=637939271320100000&width=1600&height=1600&aspect=true",
+      //   price: "R$ 399,01",
+      // },
       {
         title: "Choperia elétrica PerfectDraft",
         description: "",

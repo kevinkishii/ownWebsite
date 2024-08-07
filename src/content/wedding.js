@@ -186,9 +186,9 @@ const weddingContent = {
           price: "R$ 224,94",
         },
         {
-          title: "Potes de Mantimentos",
+          title: "Pote de Mantimentos (Kit 11 pçs) - Oikos",
           description:
-            "Estamos abertos a outras sugestões de modelos semelhantes",
+            "",
           link: "https://produto.mercadolivre.com.br/MLB-1598505952-potes-de-vidro-de-mantimentos-com-tampa-de-bambu-11-pcs-_JM",
           imgUrl:
             "https://http2.mlstatic.com/D_NQ_NP_865746-MLB49449941046_032022-O.webp",
@@ -211,14 +211,14 @@ const weddingContent = {
             "https://m.media-amazon.com/images/I/616uVOen6fL._AC_SX569_.jpg",
           price: "R$ 451,60",
         },
-        {
-          title: "Jogo de pratos",
-          description: "",
-          link: "https://now.westwing.com.br/jogo-de-pratos-rasos-neo-vit-stoneware-119233.html?simple=DEQ24POR02527-148095&gad_source=1&gclid=CjwKCAjwy8i0BhAkEiwAdFaeGKdtqpVfeFYvMEbU_YMiOWLdi_H-nx-wWSq2nRYMTuthfbUXWCLpzxoCQiAQAvD_BwE",
-          imgUrl:
-            "https://static-images-now.westwing.com.br/s/119233-6918-590841-1-product2.jpg",
-          price: "R$ 189,91",
-        },
+        // {
+        //   title: "Jogo de pratos",
+        //   description: "",
+        //   link: "https://now.westwing.com.br/jogo-de-pratos-rasos-neo-vit-stoneware-119233.html?simple=DEQ24POR02527-148095&gad_source=1&gclid=CjwKCAjwy8i0BhAkEiwAdFaeGKdtqpVfeFYvMEbU_YMiOWLdi_H-nx-wWSq2nRYMTuthfbUXWCLpzxoCQiAQAvD_BwE",
+        //   imgUrl:
+        //     "https://static-images-now.westwing.com.br/s/119233-6918-590841-1-product2.jpg",
+        //   price: "R$ 189,91",
+        // },
         {
           title: "Travessa refratária",
           description: "",
@@ -248,7 +248,7 @@ const weddingContent = {
           description: "",
           link: "https://www.perfectdraft.com.br/kit-experiencia-stella-artois-perfectdraft-5/p",
           imgUrl:
-            "https://perfectdraft.vtexassets.com/arquivos/ids/155611-458-458",
+            "/chopeira-eletrica.webp",
           price: "R$ 2.299,99",
         },
         {

@@ -16,14 +16,14 @@ const weddingContent = {
         },
       ],
       items: [
-        {
-          title: "Colchão Emma Premium Hybrid (Tamanho Queen)",
-          description: "Porque dormir é vida",
-          link: "https://www.colchoesemma.com.br/colchao-emma-premium/",
-          imgUrl:
-            "https://eu-images.contentstack.com/v3/assets/blt167b24547e5b1906/bltd64dd6fb586ecc46/65fdab48cd6986040a02a2ad/Premium_Hybrid_Twin_Gallery.jpg",
-          price: "R$ 5.199,00",
-        },
+        // {
+        //   title: "Colchão Emma Premium Hybrid (Tamanho Queen)",
+        //   description: "Porque dormir é vida",
+        //   link: "https://www.colchoesemma.com.br/colchao-emma-premium/",
+        //   imgUrl:
+        //     "https://eu-images.contentstack.com/v3/assets/blt167b24547e5b1906/bltd64dd6fb586ecc46/65fdab48cd6986040a02a2ad/Premium_Hybrid_Twin_Gallery.jpg",
+        //   price: "R$ 5.199,00",
+        // },
         {
           title: "Geladeira - BRM44HK",
           description: "Que fominha",
@@ -87,14 +87,14 @@ const weddingContent = {
             "https://static.mobly.com.br/p/Lyam-Decor-Kit-04-Cadeiras-Decorativa-Estofada-Para-Sala-de-Jantar-Melina-L02-Linho-Chumbo---Lyam-Decor-4723-3802301-2-zoom.jpg",
           price: "R$ 1.774,71",
         },
-        {
-          title: "Máquina Nespresso Lattissima One Branca",
-          description: "",
-          link: "https://www.amazon.com.br/Nespresso-Lattissima-One-Branca-Cafeteira/dp/B09WYZPBR7/ref=asc_df_B09WYZPBR7/?tag=googleshopp00-20&linkCode=df0&hvadid=557926986208&hvpos=&hvnetw=g&hvrand=8358881787408621118&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001773&hvtargid=pla-1663253407868&mcid=47abd53c207e314b93549cedc17c54a7&th=1",
-          imgUrl:
-            "https://m.media-amazon.com/images/I/418TAsElfhL._AC_SX569_.jpg",
-          price: "R$ 1.169,90",
-        },
+        // {
+        //   title: "Máquina Nespresso Lattissima One Branca",
+        //   description: "",
+        //   link: "https://www.amazon.com.br/Nespresso-Lattissima-One-Branca-Cafeteira/dp/B09WYZPBR7/ref=asc_df_B09WYZPBR7/?tag=googleshopp00-20&linkCode=df0&hvadid=557926986208&hvpos=&hvnetw=g&hvrand=8358881787408621118&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001773&hvtargid=pla-1663253407868&mcid=47abd53c207e314b93549cedc17c54a7&th=1",
+        //   imgUrl:
+        //     "https://m.media-amazon.com/images/I/418TAsElfhL._AC_SX569_.jpg",
+        //   price: "R$ 1.169,90",
+        // },
         {
           title: "Mesa com ajuste automático de altura",
           description:
@@ -203,14 +203,14 @@ const weddingContent = {
             "https://a-static.mlcdn.com.br/800x560/panela-de-pressao-brinox-42l-bege-vanilla-ceramic-life-pressure/magazineluiza/237084500/471534edc5ba698d1b3ff850f72ade74.jpg",
           price: "R$ 213,30",
         },
-        {
-          title: "Cafeteira Espresso Philco 15 bar",
-          description: "",
-          link: "https://www.amazon.com.br/Cafeteira-Coffee-Express-Philco-220V/dp/B076HSPQFD/ref=asc_df_B076HQ1K5H/?tag=googleshopp00-20&linkCode=df0&hvadid=379727342281&hvpos=&hvnetw=g&hvrand=6925208241661432087&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001773&hvtargid=pla-814286448223&mcid=506cc42d6cb33577969ca02108880c74&th=1",
-          imgUrl:
-            "https://m.media-amazon.com/images/I/616uVOen6fL._AC_SX569_.jpg",
-          price: "R$ 451,60",
-        },
+        // {
+        //   title: "Cafeteira Espresso Philco 15 bar",
+        //   description: "",
+        //   link: "https://www.amazon.com.br/Cafeteira-Coffee-Express-Philco-220V/dp/B076HSPQFD/ref=asc_df_B076HQ1K5H/?tag=googleshopp00-20&linkCode=df0&hvadid=379727342281&hvpos=&hvnetw=g&hvrand=6925208241661432087&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001773&hvtargid=pla-814286448223&mcid=506cc42d6cb33577969ca02108880c74&th=1",
+        //   imgUrl:
+        //     "https://m.media-amazon.com/images/I/616uVOen6fL._AC_SX569_.jpg",
+        //   price: "R$ 451,60",
+        // },
         // {
         //   title: "Jogo de pratos",
         //   description: "",

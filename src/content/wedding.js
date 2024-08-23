@@ -187,22 +187,21 @@ const weddingContent = {
         },
         {
           title: "Pote de Mantimentos (Kit 11 pçs) - Oikos",
-          description:
-            "",
+          description: "",
           link: "https://produto.mercadolivre.com.br/MLB-1598505952-potes-de-vidro-de-mantimentos-com-tampa-de-bambu-11-pcs-_JM",
           imgUrl:
             "https://http2.mlstatic.com/D_NQ_NP_865746-MLB49449941046_032022-O.webp",
           price: "R$ 219,90",
         },
-        {
-          title: "Panela de Pressão",
-          description:
-            "modelo Ceramic Life Pressure - Brinox 4,2L - Cor Bege Vanilla",
-          link: "https://www.magazineluiza.com.br/panela-de-pressao-brinox-42l-bege-vanilla-ceramic-life-pressure/p/237084500/ud/udpp/?force=3&utm_content=none_roa_ven_geral_pla_tod_1p&utm_source=google&utm_medium=cpc&seller_id=magazineluiza&srsltid=AfmBOormwoYcZH1LTvW58weVTS2yefnWE-1nfdzfBCklgyb_lfr5QWdPusg",
-          imgUrl:
-            "https://a-static.mlcdn.com.br/800x560/panela-de-pressao-brinox-42l-bege-vanilla-ceramic-life-pressure/magazineluiza/237084500/471534edc5ba698d1b3ff850f72ade74.jpg",
-          price: "R$ 213,30",
-        },
+        // {
+        //   title: "Panela de Pressão",
+        //   description:
+        //     "modelo Ceramic Life Pressure - Brinox 4,2L - Cor Bege Vanilla",
+        //   link: "https://www.magazineluiza.com.br/panela-de-pressao-brinox-42l-bege-vanilla-ceramic-life-pressure/p/237084500/ud/udpp/?force=3&utm_content=none_roa_ven_geral_pla_tod_1p&utm_source=google&utm_medium=cpc&seller_id=magazineluiza&srsltid=AfmBOormwoYcZH1LTvW58weVTS2yefnWE-1nfdzfBCklgyb_lfr5QWdPusg",
+        //   imgUrl:
+        //     "https://a-static.mlcdn.com.br/800x560/panela-de-pressao-brinox-42l-bege-vanilla-ceramic-life-pressure/magazineluiza/237084500/471534edc5ba698d1b3ff850f72ade74.jpg",
+        //   price: "R$ 213,30",
+        // },
         // {
         //   title: "Cafeteira Espresso Philco 15 bar",
         //   description: "",
@@ -247,8 +246,7 @@ const weddingContent = {
           title: "Choperia elétrica PerfectDraft",
           description: "",
           link: "https://www.perfectdraft.com.br/kit-experiencia-stella-artois-perfectdraft-5/p",
-          imgUrl:
-            "/chopeira-eletrica.webp",
+          imgUrl: "/chopeira-eletrica.webp",
           price: "R$ 2.299,99",
         },
         {

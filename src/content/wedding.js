@@ -129,6 +129,14 @@ const weddingContent = {
           price: "R$ 1.065,64",
         },
         {
+          title: "Micro-ondas",
+          description: "",
+          link: "https://www.fastshop.com.br/web/p/d/EXMI41S_PRD/micro-ondas-electrolux-prata-com-painel-integrado-31l-mi41s",
+          imgUrl:
+            "https://www.fastshop.com.br//wcsstore/FastShopCAS/images/catalog/EXMI41S_PRD/EXMI41S_PRD_447_1.jpeg",
+          price: "R$ 849,90",
+        },
+        {
           title: "Balcão pequeno - Branco",
           description: "",
           link: "https://www.ideastore.com.br/produtos/38-7499/balcao+buffet+pequeno+2+portas+nash+mdf+branco+e+pes+de+madeira+tauari+84x41-5x75+cm",
@@ -185,14 +193,14 @@ const weddingContent = {
             "https://m.media-amazon.com/images/I/51FC18V43fL._AC_SX569_.jpg",
           price: "R$ 224,94",
         },
-        {
-          title: "Pote de Mantimentos (Kit 11 pçs) - Oikos",
-          description: "",
-          link: "https://produto.mercadolivre.com.br/MLB-1598505952-potes-de-vidro-de-mantimentos-com-tampa-de-bambu-11-pcs-_JM",
-          imgUrl:
-            "https://http2.mlstatic.com/D_NQ_NP_865746-MLB49449941046_032022-O.webp",
-          price: "R$ 219,90",
-        },
+        // {
+        //   title: "Pote de Mantimentos (Kit 11 pçs) - Oikos",
+        //   description: "",
+        //   link: "https://produto.mercadolivre.com.br/MLB-1598505952-potes-de-vidro-de-mantimentos-com-tampa-de-bambu-11-pcs-_JM",
+        //   imgUrl:
+        //     "https://http2.mlstatic.com/D_NQ_NP_865746-MLB49449941046_032022-O.webp",
+        //   price: "R$ 219,90",
+        // },
         // {
         //   title: "Panela de Pressão",
         //   description:
@@ -226,6 +234,15 @@ const weddingContent = {
             "https://static.riachuelo.com.br/RCHLO/14440202001/portrait/08325c12063c2e103e528bd1742f5a2f1311609e.jpg?imwidth=700",
           price: "R$ 149,90",
         },
+        {
+          title: "CADEIRA JACOBSEN PRETA",
+          description:
+            "Gostariamos de até pelo menos 4 para atendermos visitas também, Mas caso deseje pode nos presentear com a unidade que estamos imensamente agradecidos",
+          link: "https://www.elegancydesign.com.br/cadeira_jacobsen_preta_pp/p",
+          imgUrl:
+            "https://elegancydesign.vtexassets.com/arquivos/ids/178789-1200-auto?v=638544233574500000&width=1200&height=auto&aspect=true",
+          price: "R$ 178,20",
+        },
         // {
         //   title: "Jogo de xícaras",
         //   description: "",
@@ -242,6 +259,22 @@ const weddingContent = {
         //     "https://kitchenaid2.vtexassets.com/arquivos/ids/166881-1600-1600?v=637939271320100000&width=1600&height=1600&aspect=true",
         //   price: "R$ 399,01",
         // },
+        {
+          title: "Lixeira 30L (Cor Preta)",
+          description: "",
+          link: "https://www.ou.com.br/lixeira-com-pedal-trium-30-litros-com-duplo-compartimento/p?skuId=2509",
+          imgUrl:
+            "https://lojaou.vtexassets.com/arquivos/ids/165158-1200-auto?v=638334039613500000&width=1200&height=auto&aspect=true",
+          price: "R$ 151,99",
+        },
+        {
+          title: "Lixeira 12L",
+          description: "",
+          link: "https://www.amazon.com.br/Lixeira-litros-autom%C3%A1tica-inteligente-aproxima%C3%A7%C3%A3o/dp/B0CLDGBYGL/ref=sr_1_5?dib=eyJ2IjoiMSJ9.KUexkPbkILiHAp1hLKWza_XTt8lZII5slFnKObbfPt8jPw60_8ZOHCh_843VaHYmyvCpOfBIvtNXjyp3viyF58mW7T5mr1Uxs1T_OhLnRrdDYYeTYOUdkA3CBj3CDXkATZv3btH85r7XTpkvZuKxwBMT8ysChQcJPagl5FYCEwifNg9s2y7OGvJU3NticKSBXSLjqd14MW_81P2QyGpUnXXuYAGG0l_-9R-TDAKeOiOqs7L9PNJZpk-KAqcCFo_2TQmZQW5ztm3mi4ubT31Ktl5fRCKQ_tHPAq-gbuefiNY.LAgWl10uapJtkUZtbMNZGTL4bjsIapWQUjiB2IqdA_U&dib_tag=se&keywords=Coibeu&qid=1724464618&sr=8-5&ufe=app_do%3Aamzn1.fos.a492fd4a-f54d-4e8d-8c31-35e0a04ce61e",
+          imgUrl:
+            "https://m.media-amazon.com/images/I/41A7vKGOkCL._SY445_SX342_QL70_ML2_.jpg",
+          price: "R$ 112,90",
+        },
         {
           title: "Choperia elétrica PerfectDraft",
           description: "",

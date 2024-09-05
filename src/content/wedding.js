@@ -137,12 +137,28 @@ const weddingContent = {
           price: "R$ 849,90",
         },
         {
+          title: "Cama Casal Turca de Madeira Natural",
+          description: "",
+          link: "https://www.tadah.com.br/cama-casal-turca-de-madeira-natural.html",
+          imgUrl:
+            "https://www.tadah.com.br/media/catalog/product/cache/a09e2cbd041af1fc30d5220d96eaf9b4/c/a/cama-casal-turca-natural-foto-still-com-cama-web.jpg",
+          price: "R$ 699,00",
+        },
+        {
           title: "Balcão pequeno - Branco",
           description: "",
           link: "https://www.ideastore.com.br/produtos/38-7499/balcao+buffet+pequeno+2+portas+nash+mdf+branco+e+pes+de+madeira+tauari+84x41-5x75+cm",
           imgUrl:
             "https://www.ideastore.com.br/thumbs/produtos/buffetsaladejantarbalcobuffetaparadoraparadorbuffetarmarionashmdfbrancoetauari_thumb_w800.webp?0.1.i",
           price: "R$ 575,09",
+        },
+        {
+          title: "Luminária 3D com Base de Madeira",
+          description: "",
+          link: "https://www.stoadesign.com.br/products/abajur-3d-base-madeira",
+          imgUrl:
+            "https://www.stoadesign.com.br/cdn/shop/files/luminaria-3d-com-base-de-madeira-stoa-home-design-1.png",
+          price: "R$ 553,00",
         },
         {
           title: "Mesa de cabeceira",
@@ -153,6 +169,14 @@ const weddingContent = {
           price: "R$ 439,60",
         },
         {
+          title: "Luminária de Mesa Alba",
+          description: "",
+          link: "https://www.muma.com.br/decoracao/luminarias/luminaria-de-mesa-alba.html",
+          imgUrl:
+            "https://www.muma.com.br/media/catalog/product/cache/1/image/660x660/9df78eab33525d08d6e5fb8d27136e95/l/u/luminaria-de-mesa-alba.jpg",
+          price: "R$ 420,00",
+        },
+        {
           title: "Jogo de Lençol Cording Percal",
           description: "",
           link: "https://mmartan.com.br/pr/jogo-de-lencol-percal-cording-one-for-all/MM18CJDCA6150",
@@ -161,11 +185,27 @@ const weddingContent = {
           price: "R$ 459,90",
         },
         {
+          title: "Conjunto com 6 Pratos Fundo Linho Ø22,5cm - por Rita Lobo",
+          description: "",
+          link: "https://www.riachuelo.com.br/produto/conjunto-com-6-pratos-fundo-linho-22-5cm-por-rita-lobo-2317cf52a31743ae99aedae13110be9d",
+          imgUrl:
+            "https://static.riachuelo.com.br/portobrasilceramica/01003003101075A01-4-1/portrait/imagesanymarketcombr_259029420_31EBA609025D41D846864C01D5818C9D_standard_resolution.jpg",
+          price: "R$ 390,90",
+        },
+        {
           title: "Estante",
           description: "",
           link: "https://www.mobly.com.br/estante-studio-mel-e-branca-80x187-cm-1170870.html",
           imgUrl:
             "https://static.mobly.com.br/p/Modern-Estante-Studio-Mel-e-Branca-80x187-cm-0339-0780711-1-zoom.jpg",
+          price: "R$ 336,48",
+        },
+        {
+          title: "Mesa de Centro Redonda Volpi Preta 36 cm",
+          description: "",
+          link: "https://www.mobly.com.br/mesa-de-centro-redonda-volpi-preta-36-cm-760821.html",
+          imgUrl:
+            "https://static.mobly.com.br/r/2000x2000/p/Artesano-Mesa-de-Centro-Redonda-Volpi-Preta-36-cm-3102-128067-2.jpg",
           price: "R$ 336,48",
         },
         // {
@@ -185,6 +225,31 @@ const weddingContent = {
         //     "https://tokstok.vteximg.com.br/arquivos/ids/20888399-624-auto/jogo-de-talheres-30-pcs-grafite-berna_st0.jpg?v=638073200422200000&width=624&height=auto&aspect=true",
         //   price: "R$ 291,56",
         // },
+        {
+          title:
+            "Wok com Tampa Brinox Antiaderente Ceramic Life Sirius 28 cm 3,4 L com Indução Vanilla",
+          description: "",
+          link: "https://www.brinoxshop.com.br/wok-com-tampa-brinox-antiaderente-ceramic-life-sirius-28-cm-3-4-l-com-inducao-vanilla_4814157/p",
+          imgUrl:
+            "https://brinox.vteximg.com.br/arquivos/ids/272547-1200-800/wok-com-tampa-brinox-antiaderente-inducao-vanilla.jpg",
+          price: "R$ 286,08",
+        },
+        {
+          title: "Luminária de Chão em Led 22W Mariana Preto",
+          description: "",
+          link: "https://now.westwing.com.br/luminaria-de-chao-em-led-22w-mariana-preto-bivolt-41450.html?simple=DEQ21SPO46930-54459",
+          imgUrl:
+            "https://static-images-now.westwing.com.br/s/41450-4070-95445-4-product2.jpg",
+          price: "R$ 284,91",
+        },
+        {
+          title: "Luminária Japonesa de Papel de Arroz",
+          description: "",
+          link: "https://www.stoadesign.com.br/products/design-japones-luminaria-de-mesa",
+          imgUrl:
+            "https://www.stoadesign.com.br/cdn/shop/files/luminaria-japonesa-de-papel-de-arroz-stoa-home-design-1.jpg",
+          price: "R$ 239,00",
+        },
         {
           title: "Aspirador de pó",
           description: "",
@@ -227,6 +292,23 @@ const weddingContent = {
         //   price: "R$ 189,91",
         // },
         {
+          title:
+            "Seladora a Vácuo Portátil Electrolux com 5 Sacos Herméticos Reutilizáveis",
+          description: "",
+          link: "https://loja.electrolux.com.br/seladora-a-vacuo-portatil-electrolux-com-5-sacos-hermeticos-reutilizaveis/p",
+          imgUrl:
+            "https://electrolux.vtexassets.com/arquivos/ids/252195-1200-1200?v=638376420238430000&width=1200&height=1200&aspect=true",
+          price: "R$ 199,90",
+        },
+        {
+          title: "Jogo de Taças de Vinho Cristal Coleção Extrême 560ml 6 Peças",
+          description: "",
+          link: "https://www.lartduvin.com.br/products/jogo-de-6-tacas-de-cristal-bohemia-linha-extreme-vinho-tinto-560-ml",
+          imgUrl:
+            "https://www.lartduvin.com.br/cdn/shop/products/01_7771a95a-d285-467c-9b74-8b53ee171d75_695x695.jpg?v=1701446693",
+          price: "R$ 208,00",
+        },
+        {
           title: "Travessa refratária",
           description: "",
           link: "https://www.riachuelo.com.br/travessa-refrataria-retangular-em-ceramica-32cm-azul-casa-riachuelo-by-jomafe-14440202001_sku",
@@ -266,6 +348,14 @@ const weddingContent = {
           imgUrl:
             "https://lojaou.vtexassets.com/arquivos/ids/165158-1200-auto?v=638334039613500000&width=1200&height=auto&aspect=true",
           price: "R$ 151,99",
+        },
+        {
+          title: "Fervedor Tognana Stone & Wood",
+          description: "",
+          link: "https://www.camicado.com.br/p/fervedor-tognana-stone-wood/-/A-300054481-br.lc",
+          imgUrl:
+            "https://img.camicado.com.br/banner/000000000000054481/000000000000054481_top.jpg",
+          price: "R$ 139,99",
         },
         {
           title: "Lixeira 12L",

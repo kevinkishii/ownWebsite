@@ -29,7 +29,7 @@ const weddingContent = {
           description: "Que fominha",
           link: "https://www.brastemp.com.br/geladeira-brastemp-frost-free-375-litros-brm44hk/p",
           imgUrl: "https://brastemp.vtexassets.com/arquivos/ids/223742-500-500",
-          price: "R$ 3.269,00",
+          price: "R$ 3.299,00",
         },
         {
           title: "Lava & Seca 11kg - WD11M4473PX",
@@ -44,7 +44,7 @@ const weddingContent = {
           description: "",
           link: "https://www.consul.com.br/fogao-piso-consul-5-bocas-mesa-de-vidro-cfs5var/p",
           imgUrl: "https://consul.vtexassets.com/arquivos/ids/230124-1200-auto",
-          price: "R$ 2.019,00",
+          price: "R$ 1.691,10",
         },
         {
           title: "Jogo de Panelas Fika Flamingo Pink",
@@ -61,7 +61,7 @@ const weddingContent = {
           link: "https://www.kitchenaid.com.br/batedeira-stand-mixer-kitchenaid-artisan-dried-rose-kea33co/p",
           imgUrl:
             "https://kitchenaid2.vtexassets.com/arquivos/ids/170134-1600-1600?v=638488884367830000&width=1600&height=1600&aspect=true",
-          price: "R$ 2.209,10",
+          price: "R$ 1.999,09",
         },
         {
           title: "Liquidificador Kitchen Aid - cor Preta",
@@ -69,7 +69,7 @@ const weddingContent = {
           link: "https://www.kitchenaid.com.br/liquidificador-k400-kitchenaid-black-matte--kua35ap/p",
           imgUrl:
             "https://kitchenaid.vtexassets.com/arquivos/ids/162927-1600-1600?v=637439194378400000&width=1600&height=1600&aspect=true",
-          price: "R$ 1.889,10",
+          price: "R$ 1.999,09",
         },
         {
           title: "Futon Especial (Azul/ Grosso)",
@@ -85,7 +85,7 @@ const weddingContent = {
           link: "https://www.mobly.com.br/kit-04-cadeiras-decorativa-estofada-para-sala-de-jantar-melina-l02-linho-chumbo-lyam-decor-1032083.html",
           imgUrl:
             "https://static.mobly.com.br/p/Lyam-Decor-Kit-04-Cadeiras-Decorativa-Estofada-Para-Sala-de-Jantar-Melina-L02-Linho-Chumbo---Lyam-Decor-4723-3802301-2-zoom.jpg",
-          price: "R$ 1.971,90",
+          price: "R$ 1.774,71",
         },
         // {
         //   title: "Máquina Nespresso Lattissima One Branca",
@@ -102,7 +102,7 @@ const weddingContent = {
           link: "https://www.kabum.com.br/produto/471961/mesa-office-kabum-tech-dt900-branca-e-madeira-regulagem-de-altura-automatica-memorizacao-4-usuarios-anti-esmagamento-ktdt900brmn",
           imgUrl:
             "https://images.kabum.com.br/produtos/fotos/471961/mesa-office-kabum-tech-dt900-branca-e-madeira-regulagem-de-altura-automatica-memorizacao-4-usuarios-anti-esmagamento-ktdt900brmn_1702920948_gg.jpg",
-          price: "R$ 1.299,90",
+          price: "R$ 1.079,90",
         },
         {
           title: "Cadeira de Escritório Elements Olympia Branca",
@@ -110,7 +110,7 @@ const weddingContent = {
           link: "https://www.amazon.com.br/Cadeira-Escrit%C3%B3rio-Elements-Olympia-Branca/dp/B0CGSGTYGT?ref_=ast_sto_dp",
           imgUrl:
             "https://m.media-amazon.com/images/I/41qRIXhqSRL._AC_SX679_.jpg",
-          price: "R$ 1.020,70",
+          price: "R$ 1.049,00",
         },
         {
           title: "Guarda-Roupa",
@@ -153,12 +153,12 @@ const weddingContent = {
           price: "R$ 439,60",
         },
         {
-          title: "Jogo de Lençol - Casal",
+          title: "Jogo de Lençol Cording Percal",
           description: "",
-          link: "https://now.westwing.com.br/jogo-de-lencol-com-vivo-basics-branco-e-violeta-200-fios-37941.html",
+          link: "https://mmartan.com.br/pr/jogo-de-lencol-percal-cording-one-for-all/MM18CJDCA6150",
           imgUrl:
-            "https://static-images-now.westwing.com.br/s/37941-0031-10494-3-product2.jpg",
-          price: "R$ 294,41",
+            "https://images-prod.mmartan.com.br/1536x1536/png/products/photos/still/mm18cjdqa6150-1536px-1677609896042.png",
+          price: "R$ 459,90",
         },
         {
           title: "Estante",
@@ -168,15 +168,15 @@ const weddingContent = {
             "https://static.mobly.com.br/p/Modern-Estante-Studio-Mel-e-Branca-80x187-cm-0339-0780711-1-zoom.jpg",
           price: "R$ 336,48",
         },
-        {
-          title: "Chaleira Elétrica Pescoço de Ganso",
-          description:
-            "Abertos a sugestões de outros modelos de Chaleira elétrica com pescoço de Ganso",
-          link: "https://a.co/d/awsfcBe",
-          imgUrl:
-            "https://m.media-amazon.com/images/I/41nT-b3dZLL._AC_SX679_.jpg",
-          price: "R$ 312",
-        },
+        // {
+        //   title: "Chaleira Elétrica Pescoço de Ganso",
+        //   description:
+        //     "Abertos a sugestões de outros modelos de Chaleira elétrica com pescoço de Ganso",
+        //   link: "https://a.co/d/awsfcBe",
+        //   imgUrl:
+        //     "https://m.media-amazon.com/images/I/41nT-b3dZLL._AC_SX679_.jpg",
+        //   price: "R$ 305,78",
+        // },
         // {
         //   title: "Faqueiro Wolff 30 peças - Preto",
         //   description: "",
@@ -191,7 +191,7 @@ const weddingContent = {
           link: "https://www.amazon.com.br/dp/B004PS7O7K/ref=cm_sw_r_as_gl_api_gl_i_PA7W9345BZXAYKN60B9E?linkCode=ml1&tag=talitadonaper-20&th=1",
           imgUrl:
             "https://m.media-amazon.com/images/I/51FC18V43fL._AC_SX569_.jpg",
-          price: "R$ 266",
+          price: "R$ 224,94",
         },
         // {
         //   title: "Pote de Mantimentos (Kit 11 pçs) - Oikos",
@@ -226,22 +226,6 @@ const weddingContent = {
         //     "https://static-images-now.westwing.com.br/s/119233-6918-590841-1-product2.jpg",
         //   price: "R$ 189,91",
         // },
-        // {
-        //   title: "Jogo de pratos",
-        //   description: "",
-        //   link: "https://now.westwing.com.br/jogo-de-pratos-rasos-neo-vit-stoneware-119233.html?simple=DEQ24POR02527-148095&gad_source=1&gclid=CjwKCAjwy8i0BhAkEiwAdFaeGKdtqpVfeFYvMEbU_YMiOWLdi_H-nx-wWSq2nRYMTuthfbUXWCLpzxoCQiAQAvD_BwE",
-        //   imgUrl:
-        //     "https://static-images-now.westwing.com.br/s/119233-6918-590841-1-product2.jpg",
-        //   price: "R$ 189,91",
-        // },
-        {
-          title: "Jogo de pratos para pão",
-          description: "",
-          link: "https://now.westwing.com.br/jogo-de-pratos-para-pao-bio-green-granite-119051.html",
-          imgUrl:
-            "https://static-images-now.westwing.com.br/s/119051-8473-319741-2-product2.jpg",
-          price: "R$ 189,91",
-        },
         {
           title: "Travessa refratária",
           description: "",

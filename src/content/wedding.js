@@ -54,15 +54,15 @@ const weddingContent = {
             "https://static-images-now.westwing.com.br/s/73647-9567-97439-1-product2.jpg",
           price: "R$ 1.870,55",
         },
-        {
-          title: "Batedeira Kitchen Aid - Rosa",
-          description:
-            "Cor rosa que é o sonho da noiva, batedeira profissional para noiva fazer bolos deliciosos para o noivo",
-          link: "https://www.kitchenaid.com.br/batedeira-stand-mixer-kitchenaid-artisan-dried-rose-kea33co/p",
-          imgUrl:
-            "https://kitchenaid2.vtexassets.com/arquivos/ids/170134-1600-1600?v=638488884367830000&width=1600&height=1600&aspect=true",
-          price: "R$ 1.999,09",
-        },
+        // {
+        //   title: "Batedeira Kitchen Aid - Rosa",
+        //   description:
+        //     "Cor rosa que é o sonho da noiva, batedeira profissional para noiva fazer bolos deliciosos para o noivo",
+        //   link: "https://www.kitchenaid.com.br/batedeira-stand-mixer-kitchenaid-artisan-dried-rose-kea33co/p",
+        //   imgUrl:
+        //     "https://kitchenaid2.vtexassets.com/arquivos/ids/170134-1600-1600?v=638488884367830000&width=1600&height=1600&aspect=true",
+        //   price: "R$ 1.999,09",
+        // },
         {
           title: "Liquidificador Kitchen Aid - cor Preta",
           description: "",
@@ -95,15 +95,15 @@ const weddingContent = {
         //     "https://m.media-amazon.com/images/I/418TAsElfhL._AC_SX569_.jpg",
         //   price: "R$ 1.169,90",
         // },
-        {
-          title: "Mesa com ajuste automático de altura",
-          description:
-            "Para o Noivo conseguir trabalhar de forma ergonomica, Podendo ser Mesas superiores à esta caso deseje",
-          link: "https://www.kabum.com.br/produto/471961/mesa-office-kabum-tech-dt900-branca-e-madeira-regulagem-de-altura-automatica-memorizacao-4-usuarios-anti-esmagamento-ktdt900brmn",
-          imgUrl:
-            "https://images.kabum.com.br/produtos/fotos/471961/mesa-office-kabum-tech-dt900-branca-e-madeira-regulagem-de-altura-automatica-memorizacao-4-usuarios-anti-esmagamento-ktdt900brmn_1702920948_gg.jpg",
-          price: "R$ 1.079,90",
-        },
+        // {
+        //   title: "Mesa com ajuste automático de altura",
+        //   description:
+        //     "Para o Noivo conseguir trabalhar de forma ergonomica, Podendo ser Mesas superiores à esta caso deseje",
+        //   link: "https://www.kabum.com.br/produto/471961/mesa-office-kabum-tech-dt900-branca-e-madeira-regulagem-de-altura-automatica-memorizacao-4-usuarios-anti-esmagamento-ktdt900brmn",
+        //   imgUrl:
+        //     "https://images.kabum.com.br/produtos/fotos/471961/mesa-office-kabum-tech-dt900-branca-e-madeira-regulagem-de-altura-automatica-memorizacao-4-usuarios-anti-esmagamento-ktdt900brmn_1702920948_gg.jpg",
+        //   price: "R$ 1.079,90",
+        // },
         {
           title: "Cadeira de Escritório Elements Olympia Branca",
           description: "Para a noiva conseguir sentar confortavelmente",
@@ -184,14 +184,14 @@ const weddingContent = {
             "https://images-prod.mmartan.com.br/1536x1536/png/products/photos/still/mm18cjdqa6150-1536px-1677609896042.png",
           price: "R$ 459,90",
         },
-        {
-          title: "Conjunto com 6 Pratos Fundo Linho Ø22,5cm - por Rita Lobo",
-          description: "",
-          link: "https://www.riachuelo.com.br/produto/conjunto-com-6-pratos-fundo-linho-22-5cm-por-rita-lobo-2317cf52a31743ae99aedae13110be9d",
-          imgUrl:
-            "https://static.riachuelo.com.br/portobrasilceramica/01003003101075A01-4-1/portrait/imagesanymarketcombr_259029420_31EBA609025D41D846864C01D5818C9D_standard_resolution.jpg",
-          price: "R$ 390,90",
-        },
+        // {
+        //   title: "Conjunto com 6 Pratos Fundo Linho Ø22,5cm - por Rita Lobo",
+        //   description: "",
+        //   link: "https://www.riachuelo.com.br/produto/conjunto-com-6-pratos-fundo-linho-22-5cm-por-rita-lobo-2317cf52a31743ae99aedae13110be9d",
+        //   imgUrl:
+        //     "https://static.riachuelo.com.br/portobrasilceramica/01003003101075A01-4-1/portrait/imagesanymarketcombr_259029420_31EBA609025D41D846864C01D5818C9D_standard_resolution.jpg",
+        //   price: "R$ 390,90",
+        // },
         {
           title: "Estante",
           description: "",
@@ -225,15 +225,15 @@ const weddingContent = {
         //     "https://tokstok.vteximg.com.br/arquivos/ids/20888399-624-auto/jogo-de-talheres-30-pcs-grafite-berna_st0.jpg?v=638073200422200000&width=624&height=auto&aspect=true",
         //   price: "R$ 291,56",
         // },
-        {
-          title:
-            "Wok com Tampa Brinox Antiaderente Ceramic Life Sirius 28 cm 3,4 L com Indução Vanilla",
-          description: "",
-          link: "https://www.brinoxshop.com.br/wok-com-tampa-brinox-antiaderente-ceramic-life-sirius-28-cm-3-4-l-com-inducao-vanilla_4814157/p",
-          imgUrl:
-            "https://brinox.vteximg.com.br/arquivos/ids/272547-1200-800/wok-com-tampa-brinox-antiaderente-inducao-vanilla.jpg",
-          price: "R$ 286,08",
-        },
+        // {
+        //   title:
+        //     "Wok com Tampa Brinox Antiaderente Ceramic Life Sirius 28 cm 3,4 L com Indução Vanilla",
+        //   description: "",
+        //   link: "https://www.brinoxshop.com.br/wok-com-tampa-brinox-antiaderente-ceramic-life-sirius-28-cm-3-4-l-com-inducao-vanilla_4814157/p",
+        //   imgUrl:
+        //     "https://brinox.vteximg.com.br/arquivos/ids/272547-1200-800/wok-com-tampa-brinox-antiaderente-inducao-vanilla.jpg",
+        //   price: "R$ 286,08",
+        // },
         {
           title: "Luminária de Chão em Led 22W Mariana Preto",
           description: "",
@@ -250,14 +250,14 @@ const weddingContent = {
             "https://www.stoadesign.com.br/cdn/shop/files/luminaria-japonesa-de-papel-de-arroz-stoa-home-design-1.jpg",
           price: "R$ 239,00",
         },
-        {
-          title: "Aspirador de pó",
-          description: "",
-          link: "https://www.amazon.com.br/dp/B004PS7O7K/ref=cm_sw_r_as_gl_api_gl_i_PA7W9345BZXAYKN60B9E?linkCode=ml1&tag=talitadonaper-20&th=1",
-          imgUrl:
-            "https://m.media-amazon.com/images/I/51FC18V43fL._AC_SX569_.jpg",
-          price: "R$ 224,94",
-        },
+        // {
+        //   title: "Aspirador de pó",
+        //   description: "",
+        //   link: "https://www.amazon.com.br/dp/B004PS7O7K/ref=cm_sw_r_as_gl_api_gl_i_PA7W9345BZXAYKN60B9E?linkCode=ml1&tag=talitadonaper-20&th=1",
+        //   imgUrl:
+        //     "https://m.media-amazon.com/images/I/51FC18V43fL._AC_SX569_.jpg",
+        //   price: "R$ 224,94",
+        // },
         // {
         //   title: "Pote de Mantimentos (Kit 11 pçs) - Oikos",
         //   description: "",

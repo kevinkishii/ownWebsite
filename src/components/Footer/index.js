@@ -23,11 +23,14 @@ const Footer = ({ title, description, lists, contactList }) => {
       </div>
       {lists?.length > 0 &&
         lists.map((listItem) => (
-          <div className="flex flex-col gap-6 h-full">
+          <div
+            className="flex flex-col gap-6 h-full"
+            key={`${listItem?.title}-footer-list`}
+          >
             <div className="text-2xl">{listItem?.listTitle}</div>
             <ul className="text-lg list-disc">
               {listItem?.listItems.map((item) => (
-                <li>{item}</li>
+                <li key={`${item}-footer-listItem`}>{item}</li>
               ))}
             </ul>
           </div>
@@ -35,7 +38,10 @@ const Footer = ({ title, description, lists, contactList }) => {
       {contactList?.length > 0 && (
         <div className="flex flex-col gap-6 w-full md:w-1/5 h-[100%] items-start justify-center">
           {contactList.map((contactItem) => (
-            <div className="flex flex-col gap-2">
+            <div
+              className="flex flex-col gap-2"
+              key={`${contactItem?.contactLabel}-footer-contactItem`}
+            >
               <div className="text-xl font-semibold">
                 {contactItem?.contactLabel}
               </div>

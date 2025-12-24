@@ -1,6 +1,6 @@
 import Drawer from "./Drawer";
 
-const VerticalDrawer = ({ title, drawers }) => {
+const VerticalDrawer = ({ title, drawers, activeClass, inactiveClass }) => {
   return (
     <div className="text-white w-full flex items-center justify-center py-20 px-7 animate-show-on-scroll [animation-timeline:view(block)] [animation-range:_cover_0%_entry-crossing_100%]">
       <div className="flex flex-col items-center justify-center gap-10 w-full max-w-3xl">
@@ -11,7 +11,14 @@ const VerticalDrawer = ({ title, drawers }) => {
           <div className="w-full flex flex-col gap-5">
             {drawers &&
               drawers?.map((drawer) => {
-                return <Drawer {...drawer} key={`${drawer?.title}`} />;
+                return (
+                  <Drawer
+                    {...drawer}
+                    key={`${drawer?.title}`}
+                    activeClass={activeClass}
+                    inactiveClass={inactiveClass}
+                  />
+                );
               })}
           </div>
         </div>

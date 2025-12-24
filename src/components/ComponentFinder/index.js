@@ -1,3 +1,4 @@
+import Footer from "../Footer";
 import PageHero from "../PageHero";
 import ProjectsDisplay from "../ProjectsDisplay";
 import SquareGrid from "../SquareGrid";
@@ -19,6 +20,8 @@ const ComponentFinder = (props) => {
       return <ProjectsDisplay {...props} />;
     case "wedding-grid":
       return <WeddingGrid {...props} />;
+    case "footer":
+      return <Footer {...props} />;
     default:
       return null;
   }

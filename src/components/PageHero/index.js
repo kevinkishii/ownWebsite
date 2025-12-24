@@ -1,14 +1,21 @@
 import Image from "next/image";
 import Socials from "./Socials.js";
 
-const PageHero = ({ title, intro, description, isFullScreen, socials }) => {
+const PageHero = ({
+  title,
+  intro,
+  description,
+  isFullScreen,
+  socials,
+  imageSrc = "/portfolio.jpg",
+}) => {
   return (
     <div
       className={`bg-black w-full flex items-center justify-center text-white py-24 px-16 ${
         isFullScreen && "min-h-screen"
       }`}
     >
-      <div className="max-w-5xl	w-full flex lg:flex-row flex-col gap-16">
+      <div className="max-w-5xl	w-full flex lg:flex-row flex-col-reverse gap-16">
         <div className="w-full flex flex-col gap-10 w-full lg:w-1/2">
           {title && <h1 className="font-bold text-5xl lg:text-8xl">{title}</h1>}
           {intro && <div className="text-[#757575] text-3xl">{intro}</div>}
@@ -19,7 +26,7 @@ const PageHero = ({ title, intro, description, isFullScreen, socials }) => {
         </div>
         <div className="w-full lg:w-1/2 rounded-xl overflow-hidden">
           <Image
-            src="/portfolio.jpg"
+            src={imageSrc}
             width={500}
             height={500}
             alt="Picture of the author"
